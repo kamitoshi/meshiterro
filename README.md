@@ -1,5 +1,11 @@
 # README
 
+## [start] ログイン認証機能の実装
+deviseの導入
+
+## [update] 画像の投稿機能の実装
+refileによる画像処理
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
